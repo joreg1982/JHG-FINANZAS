@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jorge Henao Granada | Financial & BI Expert</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-container">
+            <div class="nav-brand">JH</div>
+            <div class="nav-links">
+                <a href="#about">Sobre mí</a>
+                <a href="#expertise">Expertise</a>
+                <a href="#skills">Habilidades</a>
+                <a href="#contact">Contacto</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Jorge Henao Granada</h1>
+            <p>Financial Expert & Business Intelligence Specialist</p>
+            <p>"Transformando datos financieros en decisiones estratégicas con IA y Analytics"</p>
+        </div>
+    </section>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>Sobre Mí</h2>
+            <p>Especialista en Gerencia Financiera y Contador Público con más de una década de experiencia en la transformación digital de procesos financieros. Mi pasión por la tecnología y las finanzas me ha llevado a especializarme en Business Intelligence y análisis avanzado de datos, implementando soluciones innovadoras que combinan la experiencia financiera tradicional con las últimas tendencias en IA y analytics.</p>
+        </div>
+    </section>
+
+    <section id="expertise" class="section">
+        <div class="container">
+            <h2>Áreas de Expertise</h2>
+            <div class="grid">
+                <div class="card">
+                    <i class="fas fa-chart-pie"></i>
+                    <h3>Business Intelligence</h3>
+                    <p>Desarrollo de soluciones de BI con Power BI, creación de dashboards interactivos y reportes automatizados para la toma de decisiones estratégicas.</p>
+                </div>
+                <div class="card">
+                    <i class="fas fa-brain"></i>
+                    <h3>Analytics Avanzado</h3>
+                    <p>Implementación de modelos predictivos y análisis de datos para optimizar procesos financieros y descubrir insights valiosos.</p>
+                </div>
+                <div class="card">
+                    <i class="fas fa-robot"></i>
+                    <h3>Automatización Financiera</h3>
+                    <p>Diseño e implementación de soluciones de automatización para procesos contables y financieros utilizando IA y tecnologías emergentes.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2>Habilidades Técnicas</h2>
+            <div class="skill-grid">
+                <div class="skill-item">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>Power BI</h3>
+                </div>
+                <div class="skill-item">
+                    <i class="fas fa-database"></i>
+                    <h3>SQL</h3>
+                </div>
+                <div class="skill-item">
+                    <i class="fas fa-file-excel"></i>
+                    <h3>Excel Avanzado</h3>
+                </div>
+                <div class="skill-item">
+                    <i class="fas fa-project-diagram"></i>
+                    <h3>Business Analytics</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="cta">
+        <div class="container">
+            <h2>¿Buscando transformar sus procesos financieros?</h2>
+            <p>Permítame ayudarle a potenciar su gestión financiera con análisis avanzado de datos</p>
+            <a href="mailto:jorgehenaogranada@gmail.com" class="button">Contácteme</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Jorge Henao Granada © 2024</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
